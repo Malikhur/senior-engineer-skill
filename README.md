@@ -8,7 +8,7 @@
 
 ## What is this?
 
-**Senior Engineer Skill** is a collection of composable AI agent skills modeled after the wildly successful [taste-skill](https://github.com/Leonxlnx/taste-skill) repo — but instead of frontend design, it focuses on **senior backend and fullstack software engineering excellence**.
+**Senior Engineer Skill** is a collection of composable AI agent skills modeled after the wildly successful — but instead of frontend design, it focuses on **senior backend and fullstack software engineering excellence**.
 
 Every AI coding agent you use — Claude Code, Cursor, GitHub Copilot, Windsurf, Codex, or any agent that reads `SKILL.md` files — will instantly adopt senior-engineer habits:
 - Write code that passes security review
